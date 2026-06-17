@@ -30046,9 +30046,9 @@ __metadata:
   linkType: hard
 
 "country-flag-icons@npm:^1.5.11":
-  version: 1.5.13
-  resolution: "country-flag-icons@npm:1.5.13"
-  checksum: 10c0/beee2fe225469507d6c8df90376e031f08a5f103f65cd68e1db0679e82d4ffb2fbb27a3bb19defd112745b5c19d1972df615df21813c8c2074062dd5eb08eabb
+  version: 1.6.17
+  resolution: "country-flag-icons@npm:1.6.17"
+  checksum: 10c0/1b9e8dc62380a08dbce50250b62c2f7807bf5ca2b72f29c14b26d30e4f9257f0536641d0d3e8276ae4fcf863e3e4b5729b1cb3c99d607ccd51e48568dfb3d0e4
   languageName: node
   linkType: hard
 
